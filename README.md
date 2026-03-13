@@ -1,8 +1,5 @@
 # iam-access-management-lab
-This project simulates an Identity and Access Management (IAM) environment for a fictional company.
-# IAM Access Management Lab
-
-
+This project simulates an Identity and Access Management (IAM) environment for a fictional company
 
 The goal is to demonstrate IAM concepts such as:
 
